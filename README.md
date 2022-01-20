@@ -15,7 +15,7 @@ _por onde começar a desenvolver um projeto_.
 **"Os ignorantes, que acham que sabem tudo, privam-se de um dos maiores prazeres da vida: aprender"**
 
 
-<div align="center">
+
   <a href="https://github.com/douglasbarreiros701">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=douglasbarreiros701&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasbarreiros701&layout=compact&langs_count=7&theme=dark"/>
