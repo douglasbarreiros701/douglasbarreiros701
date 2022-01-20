@@ -12,7 +12,8 @@ em empresas.
 🤔 Estou procurando por dicas de como fixar as informações na minha cabeça e 
 _por onde começar a desenvolver um projeto_.
 
-**"Os ignorantes, que acham que sabem tudo, privam-se de um dos maiores prazeres da vida: aprender"**
+**"Os ignorantes, que acham que sabem tudo, privam-se de um dos maiores prazeres da vida: aprender"** 
+_Frase popular_
 
 
 
