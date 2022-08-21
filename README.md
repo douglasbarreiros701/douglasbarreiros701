@@ -4,13 +4,12 @@
 📘 Estou estudando _HTML_, _CSS_ e _JavaScript_.
 
 🚜 Ainda não estou trabalhando em um projeto muito grande 
-estou fazendo mini projetos para aprender as _linguagens de programação_.
+estou fazendo mini projetos para aprender a _desenvolver_.
 
 😄 Eu estou procurando colaborar com aprendizado e aplicação do meu aprendizado 
 em empresas.
 
-🤔 Estou procurando por dicas de como fixar as informações na minha cabeça e 
-_por onde começar a desenvolver um projeto_.
+🤔 Estou resolvendo problemas.
 
 **"Os ignorantes, que acham que sabem tudo, privam-se de um dos maiores prazeres da vida: aprender"** 
 _Frase popular_
