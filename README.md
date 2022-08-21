@@ -6,8 +6,7 @@
 🚜 Ainda não estou trabalhando em um projeto muito grande 
 estou fazendo mini projetos para aprender a _desenvolver_.
 
-😄 Eu estou procurando colaborar com aprendizado e aplicação do meu aprendizado 
-em empresas.
+😄 Estou aplicando meu conhecimento e aprendendo.
 
 🤔 Estou resolvendo problemas.
 
