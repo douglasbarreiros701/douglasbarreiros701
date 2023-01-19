@@ -29,6 +29,7 @@
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
 <br><br>
 Sou apaixonado por tecnologia 💘
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=douglasbarreiros701&bg_color=0d1117&color=ffffff&line=6678ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
