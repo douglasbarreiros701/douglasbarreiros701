@@ -5,8 +5,7 @@
 
 
 ![Douglas GitHub stats](https://github-readme-stats.vercel.app/api?username=douglasbarreiros701&show_icons=true&theme=tokyonight)
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 ## Tecnologias 👨‍💻
 
@@ -26,6 +25,12 @@
 ## Em breve
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
+![Firebase](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 <br><br>
 Sou apaixonado por tecnologia 💘
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
