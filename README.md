@@ -32,7 +32,7 @@
 
 <br><br>
 Sou apaixonado por tecnologia 💘
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=douglasbarreiros701theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=douglasbarreiros701&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
