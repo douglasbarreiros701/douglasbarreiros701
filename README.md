@@ -1,8 +1,8 @@
-![Wallpaper-github okok](https://github.com/douglasbarreiros701/douglasbarreiros701/assets/97680488/48a0d520-5ece-42f5-8bde-98e3d4255969)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglasbarreiros/)
+![Wallpaper-github okok](https://github.com/douglasbarreiros701/douglasbarreiros701/assets/97680488/48a0d520-5ece-42f5-8bde-98e3d4255969)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=douglasbarreiros701&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-![Douglas GitHub stats](https://github-readme-stats.vercel.app/api?username=douglasbarreiros701&show_icons=true&theme=tokyonight)
 
 ## Tecnologias 👨‍💻
 
@@ -23,7 +23,7 @@
 
 <br><br>
 Sou apaixonado por tecnologia 💘
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=douglasbarreiros701&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 
