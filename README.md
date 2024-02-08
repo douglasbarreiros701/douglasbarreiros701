@@ -2,9 +2,9 @@
 ![Wallpaper-github okok](https://github.com/douglasbarreiros701/douglasbarreiros701/assets/97680488/48a0d520-5ece-42f5-8bde-98e3d4255969)
 
 ### Sobre mim
-* Desenvolvedor back-end
-* Eu estou amando muito de desenvolver em java
-* Me pergunte alguma coisa [aqui](https://www.linkedin.com/in/douglasbarreiros/)
+* 💻 | Desenvolvedor back-end
+* ❤ | Eu estou amando desenvolver em java
+* 🧠 | Me pergunte alguma coisa [aqui](https://www.linkedin.com/in/douglasbarreiros/)
 
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -17,12 +17,10 @@
 
   
 <a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=douglasbarreiros701&theme=windows-dark&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&mode=weekly" width="50%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=douglasbarreiros701&theme=transparent&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_width=500" width="50%" />
 </a>
-
-
 <a href="https://github.com/douglasbarreiros701/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasbarreiros701&layout=compact&theme=github_dark" width="35.5%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasbarreiros701&layout=compact&theme=transparent" width="35.5%" />
 </a>
 
 
