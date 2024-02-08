@@ -21,8 +21,7 @@
 
 
 
-<br><br>
-Sou apaixonado por tecnologia 💘
+
 
 
 
